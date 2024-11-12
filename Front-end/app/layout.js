@@ -6,7 +6,7 @@ import StoreProvider from "./StoreProvider"
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Smart Inventory System',
+  title: 'Smart Inventory System completed',
   description: '',
 }
 
